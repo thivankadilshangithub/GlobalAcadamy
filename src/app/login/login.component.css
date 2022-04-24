@@ -1,0 +1,99 @@
+#sect1 {    
+    
+    /* background-image: url("https://p4.wallpaperbetter.com/wallpaper/176/864/869/computer-laptop-coffee-programming-wallpaper-preview.jpg"); */
+     /* background-image: url("https://dpbnri2zg3lc2.cloudfront.net/en/wp-content/uploads/2021/01/what-is-the-difference-web-developer-web-designer.jpg");  */
+     background-image: url("https://c1.wallpaperflare.com/preview/518/369/227/web-design-coding-web-developing-macbook.jpg");
+    background-size: cover;
+    height: 80%;
+    width: 100%;
+    background-repeat: no-repeat;  
+}  
+/* Card****************** */
+
+.conmat1:hover{
+  transform:scale(1.028);
+  transition:all 0.5s;
+}
+
+.mat-card{
+    border:  8px ;
+    box-shadow: 0 0 10px 0 rgb(155 155 155 / 50%);
+    background: transparent;
+    /* border-left: 3px solid #3fc3eb; */
+    border-left: 4px solid  #1F57C3;
+    font-family: 'ProximaNova-Light';
+}
+
+.mat2{
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 50px;
+}
+
+.secttion2{
+    width: 80%;
+}
+
+#section{
+background-image: url("https://dpbnri2zg3lc2.cloudfront.net/en/wp-content/uploads/2021/01/what-is-the-difference-web-developer-web-designer.jpg");
+background-position: center;
+background-repeat: no-repeat;
+border-top-left-radius: 12px;
+border-bottom-left-radius: 12px;
+}
+
+.btnstyle{
+    border-radius: 25px ;
+    background-color: #FFFFFF;
+    color: #1F57C3;
+    font-family: 'ProximaNova-Light';
+    padding: 4px 18px ;
+    font-size: 18px;
+    
+}
+
+.circle{
+    padding-top: 100px;
+    height: 500px;
+    width: 1000px;
+    border-radius: 0 0  500px 500px;
+    background-color: #00b140;
+    margin-left: 200px;
+  }
+
+  .par1{
+    font-size: 1.5rem;
+    line-height: 1.5em;
+    opacity: .825;
+    font-weight: 600;
+    color: #FFFFFF;
+    text-align: center;
+    letter-spacing: 2px;
+  }
+
+  .par2{
+    font-size: 63px;
+    line-height: 1em;
+    font-weight: 700;
+    color: #FFF;
+    font-family: sofia-pro;
+    text-align: center;
+    padding-top: 30px;
+  }
+
+
+  /* ****************footer***************** */
+
+.footer{
+    bottom: 0;
+    width: 100%;
+    background-color: #1F57C3;
+    color: white;
+    text-align: center;
+    font-size: 15px;
+    overflow-x: hidden;
+    padding: 7px;
+    top: 0;
+  
+  }
+
